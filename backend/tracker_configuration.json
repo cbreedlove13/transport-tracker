@@ -1,5 +1,5 @@
 {
-	"mapsApiKey": "AIzaNotARealKey",
-	"databaseURL": "https://project-id.firebaseio.com",
+	"mapsApiKey": "AIzaSyAEAgeJ1xHM6T3kNfaZ_dM9XXnzWdslgS8",
+	"databaseURL": "firebase-adminsdk-bdib7@shuttle-tracker-41a07.iam.gserviceaccount.com",
 	"simulation": true
 }
